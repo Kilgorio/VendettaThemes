@@ -1,0 +1,134 @@
+{
+    "name": "Purple Mountains",
+    "description": "A simple theme for Vendetta with an image of purple mountains. DARK MODE REQUIRED!",
+    "authors": [
+        {
+            "name": "Wizzy#0211",
+            "id": "715443625580036128"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b674ff"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#ff74dd"
+        ],
+        "TEXT_LINK": [
+            "#b674ff"
+        ],
+        "TEXT_DANGER": [
+            "#ff74dd"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#9c74ff"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "transparent"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#b674ff"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#000000"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#507dfc"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#a174ff",
+        "PRIMARY_500": "#ff74dd",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#b674ff",  
+        "BRAND_360": "#9c74ff",  
+        "BRAND_500": "#ff74dd",  
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#a174ff",   
+        "YELLOW_300": "#ff74dd", 
+        "ORANGE_345": "#b674ff", 
+        "GREEN_345": "#9c74ff",  
+        "GREEN_360": "#ff74dd",  
+        "RED_560" : "#a174ff",   
+        "RED_400": "#ff74dd"     
+    },
+    "spec": 2,
+    "background": {
+        "blur": 0.2,
+        "url": "https://raw.githubusercontent.com/Kilgorio/VendettaThemes/main/PurpleMountains/image-23-03-24-01-12-1.jpeg",
+        "alpha": 0.7,
+        "color": "#000000",
+        "filter": "brightness(0.85) contrast(1.1) gamma(1.2)",
+        "transform": "scale(1.02)"
+    }
+}
+
+
