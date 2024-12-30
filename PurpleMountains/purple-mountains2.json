@@ -1,9 +1,9 @@
 {
-    "name": "Purple Mountains",
+    "name": "Purple Mountains2",
     "description": "A simple theme for Vendetta with an image of purple mountains. DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": "Wizzy#0211",
+            "name": "Kilgorio",
             "id": "715443625580036128"
         }
     ],
@@ -123,7 +123,7 @@
     "spec": 2,
     "background": {
         "blur": 0.2,
-        "url": "https://raw.githubusercontent.com/Kilgorio/VendettaThemes/main/PurpleMountains/image-23-03-24-01-12-1.jpeg",
+        "url": "https://raw.githubusercontent.com/Kilgorio/VendettaThemes/main/PurpleMountains/image-23-03-24-01-12-1.jpeg(2).png",
         "alpha": 0.7,
         "color": "#000000",
         "filter": "brightness(0.85) contrast(1.1) gamma(1.2)",
